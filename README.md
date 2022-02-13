@@ -20,10 +20,10 @@
   <summary>:zap: Github Stats</summary>
   <br/>
   <p>
-    <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=vvHacker007&show_icons=true&theme=tokyonight">
-    <img height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vvHacker007&show_icons=true&theme=tokyonight"/>
-    <img height="160" width="400" src='https://github-readme-stats.vercel.app/api/top-langs/?username=vvHacker007&show_icons=true&theme=tokyonight&layout=compact'/>
-    <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=vvHacker007&theme=react-dark"/>
+    <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=mohammedadelabu&show_icons=true&theme=tokyonight">
+    <img height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedadelabu&show_icons=true&theme=tokyonight"/>
+    <img height="160" width="400" src='https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedadelabu&show_icons=true&theme=tokyonight&layout=compact'/>
+    <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=mohammedadelabu&theme=react-dark"/>
   <p>
 </details>
 
