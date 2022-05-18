@@ -6,9 +6,9 @@
 
 
 - 👋 I’m Mohammed Adelabu Hassan a.k.a DevEmperor.
-- 👀 I’m a Backend Software Engineer that is also interested in frontend and blockchain technologies
-- 👀 I'm proficient in using NodeJS, ExpressJS, TypeScript, MongoDB, AWS, GraphQL etc in building backend applications 
-- 🌱 I’m currently learning Solidity, ReactJS, Deep Learning, Computer Vision and Python. 
+- 👀 I’m a Fullstack Software Engineer that is also interested in blockchain technologies
+- 👀 I'm proficient in using NodeJS, ExpressJS, TypeScript, React, Angular, MongoDB, AWS, GraphQL etc in building applications 
+- 🌱 I’m currently learning Solidity, Deep Learning, Computer Vision and Python. 
 - 💞️ I’m looking to collaborate on backend, frontend and blockchain projects
 - 📫 You can reach me on m2hasmond@gmail.com
 
